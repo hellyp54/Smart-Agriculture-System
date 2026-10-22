@@ -1,0 +1,544 @@
+{
+  "zones": [
+    {
+      "_id": "1776839099203",
+      "userId": "pujan@gmail.com",
+      "zoneId": "Tulsi Farm, Pune, MH",
+      "metrics": {
+        "moisture": 16,
+        "temperature": 30.5,
+        "ph": 6.3,
+        "nitrogen": 160,
+        "phosphorus": 53,
+        "potassium": 127,
+        "organic": 3.9
+      },
+      "status": "Warning",
+      "timestamp": "2026-04-22T06:24:59.203Z"
+    },
+    {
+      "_id": "1776839102483",
+      "userId": "pujan@gmail.com",
+      "zoneId": "Tulsi Farm, Pune, MH",
+      "metrics": {
+        "moisture": 16,
+        "temperature": 30.5,
+        "ph": 6.4,
+        "nitrogen": 195,
+        "phosphorus": 50,
+        "potassium": 129,
+        "organic": 2.3
+      },
+      "status": "Warning",
+      "timestamp": "2026-04-21T06:25:02.483Z"
+    },
+    {
+      "_id": "1776839129486",
+      "userId": "pujan@gmail.com",
+      "zoneId": "Tulsi Farm, Pune, MH",
+      "metrics": {
+        "moisture": 25,
+        "temperature": 35.1,
+        "ph": 6.9,
+        "nitrogen": 193,
+        "phosphorus": 55,
+        "potassium": 130,
+        "organic": 2.9
+      },
+      "status": "Critical",
+      "timestamp": "2026-04-20T06:25:29.486Z"
+    },
+    {
+      "_id": "1776839175089",
+      "userId": "pujan@gmail.com",
+      "zoneId": "Tulsi Farm, Pune, MH",
+      "metrics": {
+        "moisture": 15,
+        "temperature": 36.2,
+        "ph": 6.1,
+        "nitrogen": 182,
+        "phosphorus": 65,
+        "potassium": 124,
+        "organic": 2.4
+      },
+      "status": "Critical",
+      "timestamp": "2026-04-19T06:26:15.089Z"
+    },
+    {
+      "_id": "1776839548847",
+      "userId": "helly@gmail.com",
+      "zoneId": "Krishyug Organic Farm, Surat",
+      "metrics": {
+        "moisture": 9,
+        "temperature": 33.7,
+        "ph": 6.8,
+        "nitrogen": 199,
+        "phosphorus": 69,
+        "potassium": 125,
+        "organic": 2.1
+      },
+      "status": "Warning",
+      "timestamp": "2026-04-18T06:32:28.847Z"
+    },
+    {
+      "_id": "1776839713804",
+      "userId": "helly@gmail.com",
+      "zoneId": "Krishyug Organic Farm, Surat",
+      "metrics": {
+        "moisture": 25,
+        "temperature": 35.7,
+        "ph": 6.2,
+        "nitrogen": 160,
+        "phosphorus": 64,
+        "potassium": 120,
+        "organic": 3.7
+      },
+      "status": "Critical",
+      "timestamp": "2026-04-22T06:35:13.804Z"
+    },
+    {
+      "_id": "1776841069025",
+      "userId": "helly@gmail.com",
+      "zoneId": "Krishyug Organic Farm, Surat",
+      "metrics": {
+        "moisture": 25,
+        "temperature": 35.9,
+        "ph": 6.3,
+        "nitrogen": 171,
+        "phosphorus": 51,
+        "potassium": 121,
+        "organic": 2.5
+      },
+      "status": "Critical",
+      "timestamp": "2026-04-21T06:57:49.025Z"
+    },
+    {
+      "_id": "1776841141043",
+      "userId": "helly@gmail.com",
+      "zoneId": "Krishyug Organic Farm, Surat",
+      "metrics": {
+        "moisture": 16,
+        "temperature": 30.6,
+        "ph": 7,
+        "nitrogen": 182,
+        "phosphorus": 51,
+        "potassium": 104,
+        "organic": 2.9
+      },
+      "status": "Warning",
+      "timestamp": "2026-04-20T06:59:01.043Z"
+    },
+    {
+      "_id": "1776841268461",
+      "userId": "helly@gmail.com",
+      "zoneId": "Krishyug Organic Farm, Surat",
+      "metrics": {
+        "moisture": 12,
+        "temperature": 34.6,
+        "ph": 6.2,
+        "nitrogen": 176,
+        "phosphorus": 64,
+        "potassium": 135,
+        "organic": 2.8
+      },
+      "status": "Warning",
+      "timestamp": "2026-04-19T07:01:08.461Z"
+    },
+    {
+      "_id": "1776878630908",
+      "userId": "69e0581db7a88b1abed8334a",
+      "zoneId": "Rudra Field, Nashik, MH",
+      "metrics": {
+        "moisture": 24,
+        "temperature": 27.8,
+        "ph": 6.2,
+        "nitrogen": 180,
+        "phosphorus": 67,
+        "potassium": 133,
+        "organic": 2.6
+      },
+      "status": "Optimal",
+      "timestamp": "2026-04-18T17:23:50.908Z"
+    },
+    {
+      "_id": "1776878834912",
+      "userId": "69e0581db7a88b1abed8334a",
+      "zoneId": "Rudra Field, Nashik, MH",
+      "metrics": {
+        "moisture": 16,
+        "temperature": 29.6,
+        "ph": 6.7,
+        "nitrogen": 165,
+        "phosphorus": 61,
+        "potassium": 116,
+        "organic": 3.8
+      },
+      "status": "Warning",
+      "timestamp": "2026-04-22T17:27:14.912Z"
+    },
+    {
+      "_id": "1776904340978",
+      "userId": "69e0581db7a88b1abed8334a",
+      "zoneId": "Rudra Field, Nashik, MH",
+      "metrics": {
+        "moisture": 26,
+        "temperature": 24.8,
+        "ph": 6.7,
+        "nitrogen": 155,
+        "phosphorus": 63,
+        "potassium": 104,
+        "organic": 3
+      },
+      "status": "Optimal",
+      "timestamp": "2026-04-22T00:32:20.978Z"
+    },
+    {
+      "_id": "1776904547397",
+      "userId": "69e0581db7a88b1abed8334a",
+      "zoneId": "Rudra Field, Nashik, MH",
+      "metrics": {
+        "moisture": 26,
+        "temperature": 24.7,
+        "ph": 6.3,
+        "nitrogen": 171,
+        "phosphorus": 55,
+        "potassium": 123,
+        "organic": 2.8
+      },
+      "status": "Optimal",
+      "timestamp": "2026-04-21T00:35:47.397Z"
+    },
+    {
+      "_id": "1776904988796",
+      "userId": "69e0581db7a88b1abed8334a",
+      "zoneId": "Rudra Field, Nashik, MH",
+      "metrics": {
+        "moisture": 26,
+        "temperature": 24.7,
+        "ph": 6.2,
+        "nitrogen": 151,
+        "phosphorus": 58,
+        "potassium": 111,
+        "organic": 3.3
+      },
+      "status": "Optimal",
+      "timestamp": "2026-04-20T00:43:08.797Z"
+    },
+    {
+      "_id": "1776905026229",
+      "userId": "69e0581db7a88b1abed8334a",
+      "zoneId": "Rudra Field, Nashik, MH",
+      "metrics": {
+        "moisture": 26,
+        "temperature": 24.7,
+        "ph": 6.9,
+        "nitrogen": 156,
+        "phosphorus": 50,
+        "potassium": 123,
+        "organic": 2
+      },
+      "status": "Optimal",
+      "timestamp": "2026-04-19T00:43:46.229Z"
+    },
+    {
+      "_id": "1776905285555",
+      "userId": "69e0581db7a88b1abed8334a",
+      "zoneId": "Rudra Field, Nashik, MH",
+      "metrics": {
+        "moisture": 13,
+        "temperature": 26.7,
+        "ph": 6.2,
+        "nitrogen": 186,
+        "phosphorus": 58,
+        "potassium": 137,
+        "organic": 3.1
+      },
+      "status": "Warning",
+      "timestamp": "2026-04-23T00:48:05.555Z"
+    },
+    {
+      "_id": "1776906117392",
+      "userId": "69e0581db7a88b1abed8334a",
+      "zoneId": "Rudra Field, Nashik, MH",
+      "metrics": {
+        "moisture": 27,
+        "temperature": 22.8,
+        "ph": 6.4,
+        "nitrogen": 183,
+        "phosphorus": 64,
+        "potassium": 132,
+        "organic": 4.3
+      },
+      "status": "Optimal",
+      "timestamp": "2026-04-23T01:01:57.398Z"
+    },
+    {
+      "_id": "1776907632133",
+      "userId": "helly@gmail.com",
+      "zoneId": "Krishyug Organic Farm, Surat",
+      "metrics": {
+        "moisture": 15,
+        "temperature": 26.2,
+        "ph": 6.5,
+        "nitrogen": 152,
+        "phosphorus": 59,
+        "potassium": 136,
+        "organic": 3.9
+      },
+      "status": "Warning",
+      "timestamp": "2026-04-23T01:27:12.133Z"
+    },
+    {
+      "_id": "1776907648090",
+      "userId": "helly@gmail.com",
+      "zoneId": "Krishyug Organic Farm, Surat",
+      "metrics": {
+        "moisture": 15,
+        "temperature": 26.3,
+        "ph": 6.3,
+        "nitrogen": 168,
+        "phosphorus": 55,
+        "potassium": 132,
+        "organic": 4
+      },
+      "status": "Warning",
+      "timestamp": "2026-04-23T01:27:28.090Z"
+    },
+    {
+      "_id": "1776909248688",
+      "userId": "helly@gmail.com",
+      "zoneId": "Farm Analysis",
+      "metrics": {
+        "moisture": 15,
+        "temperature": 25.8,
+        "ph": 6.4,
+        "nitrogen": 179,
+        "phosphorus": 59,
+        "potassium": 128,
+        "organic": 3.9
+      },
+      "status": "Warning",
+      "timestamp": "2026-04-23T01:54:08.688Z"
+    },
+    {
+      "_id": "1776909280016",
+      "userId": "helly@gmail.com",
+      "zoneId": "Farm Analysis",
+      "metrics": {
+        "moisture": 20,
+        "temperature": 24.7,
+        "ph": 6.9,
+        "nitrogen": 154,
+        "phosphorus": 65,
+        "potassium": 110,
+        "organic": 2.2
+      },
+      "status": "Optimal",
+      "timestamp": "2026-04-23T01:54:40.016Z"
+    },
+    {
+      "_id": "1776933625675",
+      "userId": "69e999d196f32679bac539ba",
+      "zoneId": "Farm Analysis",
+      "metrics": {
+        "moisture": 25,
+        "temperature": 38,
+        "ph": 6.9,
+        "nitrogen": 177,
+        "phosphorus": 60,
+        "potassium": 112,
+        "organic": 5
+      },
+      "status": "Critical",
+      "timestamp": "2026-04-23T08:40:25.676Z"
+    }
+  ],
+  "alerts": [
+    {
+      "_id": "1776839099203-alert",
+      "userId": "pujan@gmail.com",
+      "title": "Warning Alert: Tulsi Farm, Pune, MH",
+      "message": "Local conditions indicate a warning environment. Temperature is 30.5°C with 16.0% soil moisture. Severe drought risk - Irrigation strongly recommended. Critical moisture deficit. Initiate emergency deep irrigation immediately.",
+      "type": "warning",
+      "timestamp": "2026-04-22T06:24:59.203Z",
+      "zoneId": "Tulsi Farm, Pune, MH"
+    },
+    {
+      "_id": "1776839102483-alert",
+      "userId": "pujan@gmail.com",
+      "title": "Warning Alert: Tulsi Farm, Pune, MH",
+      "message": "Local conditions indicate a warning environment. Temperature is 30.5°C with 16.0% soil moisture. Severe drought risk - Irrigation strongly recommended. Critical moisture deficit. Initiate emergency deep irrigation immediately.",
+      "type": "warning",
+      "timestamp": "2026-04-22T06:25:02.483Z",
+      "zoneId": "Tulsi Farm, Pune, MH"
+    },
+    {
+      "_id": "1776839129486-alert",
+      "userId": "pujan@gmail.com",
+      "title": "Critical Alert: Tulsi Farm, Pune, MH",
+      "message": "Local conditions indicate a critical environment. Temperature is 35.1°C with 25.0% soil moisture. Heat stress warning. High temperatures detected. Increase irrigation frequency and consider shade netting for sensitive crops.",
+      "type": "danger",
+      "timestamp": "2026-04-22T06:25:29.486Z",
+      "zoneId": "Tulsi Farm, Pune, MH"
+    },
+    {
+      "_id": "1776839548847-alert",
+      "userId": "helly@gmail.com",
+      "title": "Warning Alert: Krishyug Organic Farm, Surat",
+      "message": "Local conditions indicate a warning environment. Temperature is 33.7°C with 9.0% soil moisture. Severe drought risk - Irrigation strongly recommended. Critical moisture deficit. Initiate emergency deep irrigation immediately.",
+      "type": "warning",
+      "timestamp": "2026-04-22T06:32:28.847Z",
+      "zoneId": "Krishyug Organic Farm, Surat"
+    },
+    {
+      "_id": "1776839713804-alert",
+      "userId": "helly@gmail.com",
+      "title": "Critical Alert: Krishyug Organic Farm, Surat",
+      "message": "Local conditions indicate a critical environment. Temperature is 35.7°C with 25.0% soil moisture. Heat stress warning. High temperatures detected. Increase irrigation frequency and consider shade netting for sensitive crops.",
+      "type": "danger",
+      "timestamp": "2026-04-22T06:35:13.804Z",
+      "zoneId": "Krishyug Organic Farm, Surat"
+    },
+    {
+      "_id": "1776841069025-alert",
+      "userId": "helly@gmail.com",
+      "title": "Critical Alert: Krishyug Organic Farm, Surat",
+      "message": "Local conditions indicate a critical environment. Temperature is 35.9°C with 25.0% soil moisture. Heat stress warning. High temperatures detected. Increase irrigation frequency and consider shade netting for sensitive crops.",
+      "type": "danger",
+      "timestamp": "2026-04-22T06:57:49.025Z",
+      "zoneId": "Krishyug Organic Farm, Surat"
+    },
+    {
+      "_id": "1776841141043-alert",
+      "userId": "helly@gmail.com",
+      "title": "Warning Alert: Krishyug Organic Farm, Surat",
+      "message": "Local conditions indicate a warning environment. Temperature is 30.6°C with 16.0% soil moisture. Severe drought risk - Irrigation strongly recommended. Critical moisture deficit. Initiate emergency deep irrigation immediately.",
+      "type": "warning",
+      "timestamp": "2026-04-22T06:59:01.043Z",
+      "zoneId": "Krishyug Organic Farm, Surat"
+    },
+    {
+      "_id": "1776841268461-alert",
+      "userId": "helly@gmail.com",
+      "title": "Warning Alert: Krishyug Organic Farm, Surat",
+      "message": "Local conditions indicate a warning environment. Temperature is 34.6°C with 12.0% soil moisture. Severe drought risk - Irrigation strongly recommended. Critical moisture deficit. Initiate emergency deep irrigation immediately.",
+      "type": "warning",
+      "timestamp": "2026-04-22T07:01:08.461Z",
+      "zoneId": "Krishyug Organic Farm, Surat"
+    },
+    {
+      "_id": "1776878630908-alert",
+      "userId": "69e0581db7a88b1abed8334a",
+      "title": "Optimal Alert: Rudra Field, Nashik, MH",
+      "message": "Local conditions indicate a optimal environment. Temperature is 27.8°C with 24.0% soil moisture. Maintain regular field checks to ensure stability. Critical moisture deficit. Initiate emergency deep irrigation immediately.",
+      "type": "warning",
+      "timestamp": "2026-04-22T17:23:50.908Z",
+      "zoneId": "Rudra Field, Nashik, MH"
+    },
+    {
+      "_id": "1776878834912-alert",
+      "userId": "69e0581db7a88b1abed8334a",
+      "title": "Warning Alert: Rudra Field, Nashik, MH",
+      "message": "Local conditions indicate a warning environment. Temperature is 29.6°C with 16.0% soil moisture. Severe drought risk - Irrigation strongly recommended. Critical moisture deficit. Initiate emergency deep irrigation immediately.",
+      "type": "warning",
+      "timestamp": "2026-04-22T17:27:14.912Z",
+      "zoneId": "Rudra Field, Nashik, MH"
+    },
+    {
+      "_id": "1776904340978-alert",
+      "userId": "69e0581db7a88b1abed8334a",
+      "title": "Optimal Alert: Rudra Field, Nashik, MH",
+      "message": "Local conditions indicate a optimal environment. Temperature is 24.8°C with 26.0% soil moisture. Maintain regular field checks to ensure stability. Monitor conditions closely.",
+      "type": "warning",
+      "timestamp": "2026-04-23T00:32:20.979Z",
+      "zoneId": "Rudra Field, Nashik, MH"
+    },
+    {
+      "_id": "1776904547397-alert",
+      "userId": "69e0581db7a88b1abed8334a",
+      "title": "Optimal Alert: Rudra Field, Nashik, MH",
+      "message": "Local conditions indicate a optimal environment. Temperature is 24.7°C with 26.0% soil moisture. Maintain regular field checks to ensure stability. Monitor conditions closely.",
+      "type": "warning",
+      "timestamp": "2026-04-23T00:35:47.397Z",
+      "zoneId": "Rudra Field, Nashik, MH"
+    },
+    {
+      "_id": "1776904988797-alert",
+      "userId": "69e0581db7a88b1abed8334a",
+      "title": "Optimal Alert: Rudra Field, Nashik, MH",
+      "message": "Local conditions indicate a optimal environment. Temperature is 24.7°C with 26.0% soil moisture. Maintain regular field checks to ensure stability. Monitor conditions closely.",
+      "type": "warning",
+      "timestamp": "2026-04-23T00:43:08.797Z",
+      "zoneId": "Rudra Field, Nashik, MH"
+    },
+    {
+      "_id": "1776905026229-alert",
+      "userId": "69e0581db7a88b1abed8334a",
+      "title": "Optimal Alert: Rudra Field, Nashik, MH",
+      "message": "Local conditions indicate a optimal environment. Temperature is 24.7°C with 26.0% soil moisture. Maintain regular field checks to ensure stability. Monitor conditions closely.",
+      "type": "warning",
+      "timestamp": "2026-04-23T00:43:46.229Z",
+      "zoneId": "Rudra Field, Nashik, MH"
+    },
+    {
+      "_id": "1776905285555-alert",
+      "userId": "69e0581db7a88b1abed8334a",
+      "title": "Warning Alert: Rudra Field, Nashik, MH",
+      "message": "Local conditions indicate a warning environment. Temperature is 26.7°C with 13.0% soil moisture. Severe drought risk - Irrigation strongly recommended. Critical moisture deficit. Initiate emergency deep irrigation immediately.",
+      "type": "warning",
+      "timestamp": "2026-04-23T00:48:05.555Z",
+      "zoneId": "Rudra Field, Nashik, MH"
+    },
+    {
+      "_id": "1776906117398-alert",
+      "userId": "69e0581db7a88b1abed8334a",
+      "title": "Optimal Alert: Rudra Field, Nashik, MH",
+      "message": "Local conditions indicate a optimal environment. Temperature is 22.8°C with 27.0% soil moisture. High risk of fungal disease. Monitor conditions closely.",
+      "type": "warning",
+      "timestamp": "2026-04-23T01:01:57.398Z",
+      "zoneId": "Rudra Field, Nashik, MH"
+    },
+    {
+      "_id": "1776907632133-alert",
+      "userId": "helly@gmail.com",
+      "title": "Warning Alert: Krishyug Organic Farm, Surat",
+      "message": "Local conditions indicate a warning environment. Temperature is 26.2°C with 15.0% soil moisture. Severe drought risk - Irrigation strongly recommended. Critical moisture deficit. Initiate emergency deep irrigation immediately.",
+      "type": "warning",
+      "timestamp": "2026-04-23T01:27:12.133Z",
+      "zoneId": "Krishyug Organic Farm, Surat"
+    },
+    {
+      "_id": "1776907648090-alert",
+      "userId": "helly@gmail.com",
+      "title": "Warning Alert: Krishyug Organic Farm, Surat",
+      "message": "Local conditions indicate a warning environment. Temperature is 26.3°C with 15.0% soil moisture. Severe drought risk - Irrigation strongly recommended. Critical moisture deficit. Initiate emergency deep irrigation immediately.",
+      "type": "warning",
+      "timestamp": "2026-04-23T01:27:28.090Z",
+      "zoneId": "Krishyug Organic Farm, Surat"
+    },
+    {
+      "_id": "1776909248688-alert",
+      "userId": "helly@gmail.com",
+      "title": "Warning Alert: Farm Analysis",
+      "message": "Local conditions indicate a warning environment. Temperature is 25.8°C with 15.0% soil moisture. Severe drought risk - Irrigation strongly recommended. Critical moisture deficit. Initiate emergency deep irrigation immediately.",
+      "type": "warning",
+      "timestamp": "2026-04-23T01:54:08.688Z"
+    },
+    {
+      "_id": "1776909280016-alert",
+      "userId": "helly@gmail.com",
+      "title": "Optimal Alert: Farm Analysis",
+      "message": "Local conditions indicate a optimal environment. Temperature is 24.7°C with 20.0% soil moisture. Maintain regular field checks to ensure stability. Critical moisture deficit. Initiate emergency deep irrigation immediately.",
+      "type": "warning",
+      "timestamp": "2026-04-23T01:54:40.016Z"
+    },
+    {
+      "_id": "1776933625676-alert",
+      "userId": "69e999d196f32679bac539ba",
+      "title": "Critical Alert: Farm Analysis",
+      "message": "Local conditions indicate a critical environment. Temperature is 38.0°C with 25.0% soil moisture. Heat stress warning. High temperatures detected. Increase irrigation frequency and consider shade netting for sensitive crops.",
+      "type": "danger",
+      "timestamp": "2026-04-23T08:40:25.676Z"
+    }
+  ]
+}

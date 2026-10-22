@@ -1,0 +1,69 @@
+/* Hero Section */
+.hero {
+  height: 90vh;
+  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+    url("https://images.unsplash.com/photo-1464226184884-fa280b87c399");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+}
+
+.hero-title {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.hero-text {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+/* Feature Cards */
+.feature-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: none;
+  border-radius: 15px;
+}
+
+.feature-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0px 10px 20px rgba(0,0,0,0.2);
+}
+
+/* About Section */
+.about-section {
+  background: #f8f9fa;
+  padding: 60px 0;
+}
+
+/* CTA */
+.cta {
+  background: #28a745;
+  color: white;
+  padding: 60px 0;
+}
+
+/* Improve paragraph readability */
+.about-section p {
+  font-size: 16px;
+  line-height: 1.8;
+  color: #555;
+  text-align: justify;
+  max-width: 90%;
+  margin: 0 auto;
+  letter-spacing: 0.3px;
+}
+
+/* Better spacing */
+.about-section h2 {
+  margin-bottom: 20px;
+  color: #2e7d32;
+}
+
+/* Feature Icons */
+.feature-icon {
+  font-size: 40px;
+  color: #2e7d32;
+  margin-bottom: 15px;
+}
